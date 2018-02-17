@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<openimmo_feedback><version>1.2.5</version><objekt><oobj_id>12345</oobj_id><interessent><anrede>Frau</anrede><vorname>Andreas</vorname><nachname>Konopka</nachname><plz>Andreasstraße 10, Hamburg, Deutschland</plz><ort>Frau</ort><tel>17660443908</tel><email>andreas.konopka@unitybox.de</email><bevorzugt>TEL</bevorzugt><wunsch>ANRUF</wunsch><anfrage>resultAbsolute: 1.385.000,00
+lowAbsolute: 1.247.000,00
+highAbsolute: 1.524.000,00
+resultPerSqm: 9.250,00
+lowPerSqm: 8.300,00
+highPerSqm: 10.150,00
+quickCheckAvailable: 1
+quickCheckLow: 1960
+quickCheckHigh: 3240
+valuationId: 145201735
+uuid: da3407ab-cd4a-4fcc-bf35-f677aa1e4f68
+status: success
+type: haus
+realEstateTypeId: 1
+footprint: 800
+living_space: 150
+floor: 2
+rooms: 3
+construction_year: 1948-1967
+opened_up: 
+building: 
+cut: 
+address: Andreasstraße 10, Hamburg, Deutschland
+salutation: Frau
+firstname: Andreas
+lastname: Konopka
+phone: 17660443908
+email: andreas.konopka@unitybox.de
+year: 1980
+full_address: Andreasstraße 10, 22301, Hamburg
+</anfrage></interessent></objekt></openimmo_feedback>

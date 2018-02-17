@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<openimmo_feedback><version>1.2.5</version><objekt><oobj_id>12345</oobj_id><interessent><anrede>Herr</anrede><vorname>Andreas</vorname><nachname>Konopka</nachname><plz>Fahrstraße 18, Erlangen, Deutschland</plz><ort>Herr</ort><tel>15127236429</tel><email>andreas.konopka@unitybox.de</email><bevorzugt>TEL</bevorzugt><wunsch>ANRUF</wunsch><anfrage>resultAbsolute: 947.000,00
+lowAbsolute: 853.000,00
+highAbsolute: 1.042.000,00
+resultPerSqm: 6.300,00
+lowPerSqm: 5.700,00
+highPerSqm: 6.950,00
+quickCheckAvailable: 1
+quickCheckLow: 1330
+quickCheckHigh: 2210
+valuationId: 145222331
+uuid: 228d5578-6ae2-45ec-ad09-ff0abf0592b3
+status: success
+type: haus
+realEstateTypeId: 1
+footprint: 800
+living_space: 150
+floor: 1
+rooms: 3
+construction_year: 1948-1967
+opened_up: 
+building: 
+cut: 
+address: Fahrstraße 18, Erlangen, Deutschland
+salutation: Herr
+firstname: Andreas
+lastname: Konopka
+phone: 15127236429
+email: andreas.konopka@unitybox.de
+year: 1980
+full_address: Fahrstraße 18, 91054, Erlangen
+</anfrage></interessent></objekt></openimmo_feedback>

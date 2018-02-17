@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<openimmo_feedback><version>1.2.5</version><objekt><oobj_id>12345</oobj_id><interessent><anrede>Frau</anrede><vorname>Andreas</vorname><nachname>Konopka</nachname><plz>Andreasstraße 10, Düsseldorf, Deutschland</plz><ort>Frau</ort><tel>17660443908</tel><email>andreas.konopka@unitybox.de</email><bevorzugt>TEL</bevorzugt><wunsch>ANRUF</wunsch><anfrage>resultAbsolute: 476.000,00
+lowAbsolute: 429.000,00
+highAbsolute: 524.000,00
+resultPerSqm: 4.750,00
+lowPerSqm: 4.300,00
+highPerSqm: 5.250,00
+quickCheckAvailable: 1
+quickCheckLow: 710
+quickCheckHigh: 1730
+valuationId: 145202651
+uuid: 5ab243c0-8a5d-46d4-a46c-f71ca117e451
+status: success
+type: wohnung
+realEstateTypeId: 0
+footprint: 
+living_space: 100
+floor: Souterrain/Untergeschoss
+rooms: 3
+construction_year: 1948-1967
+opened_up: 
+building: 
+cut: 
+address: Andreasstraße 10, Düsseldorf, Deutschland
+salutation: Frau
+firstname: Andreas
+lastname: Konopka
+phone: 17660443908
+email: andreas.konopka@unitybox.de
+year: 1980
+full_address: Andreasstraße 10, 40213, Düsseldorf
+</anfrage></interessent></objekt></openimmo_feedback>
